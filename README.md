@@ -1,2 +1,2 @@
 # learning
-Files on machine learning
+An attemp to learn machine learning
